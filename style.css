@@ -1,0 +1,38 @@
+.column_1 {
+    height: 100vh;
+    /* background-color:#ADD8E6; */
+    background-image: url("bg.jpg");
+
+}
+.column_2 {
+    height: 80vh;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+.column_3 {
+    height: 50vh;
+    /* background-color: #ADD8E6; */
+    background-image: url("bg.jpg");
+    border: 3px solid black;
+}
+.buttons{
+    padding: 4px;
+    color:#18bbf1 ;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.buttons:hover{
+    padding: 4px;
+    color:#18bbf1 ;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+li{
+    font-weight: bold;
+    font-style: italic;
+    margin: 4px;
+    font-size: 22px;
+}
